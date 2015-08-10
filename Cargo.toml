@@ -1,0 +1,4 @@
+[package]
+name = "rusted"
+version = "0.0.1"
+authors = ["Jack Heizer", "Daniel Fockler <dfockler13@gmail.com>"]
